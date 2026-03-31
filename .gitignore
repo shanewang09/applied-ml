@@ -6,3 +6,5 @@
 # Files that may appear on external disks
 .Spotlight-V100
 .Trashes
+
+.ipynb_checkpoints
